@@ -16,21 +16,18 @@ Hi, I’m **Grégoire Bonnichon** — a French passionate developer with a stron
 
 # 💻 Tech Stack
 
+## 🌍 Frontend & Web Dev
+![FRONT/BACK](https://skillicons.dev/icons?i=html,css,javascript&theme=dark)
+
 ## 🧑‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Programming Language](https://skillicons.dev/icons?i=python,c,bash,markdown&theme=dark)
 
 ## 🗃️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)
 
-## 🎨 Creative Tools
-
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ## 🔌 Hardware & Platforms
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Hardware](https://skillicons.dev/icons?i=Arduino&theme=dark)
