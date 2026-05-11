@@ -13,7 +13,7 @@ Hi, I’m **Grégoire Bonnichon**  a French passionate developer at [{Epitech}](
 # Tech Stack
 
 ## Web Dev
-![html,css,nodejs,express](https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark)
+![html,css,nodejs,express](https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap&theme=dark)
 
 ## Programming Languages
 
@@ -29,4 +29,4 @@ Hi, I’m **Grégoire Bonnichon**  a French passionate developer at [{Epitech}](
 
 ## Tools
 
-![Fedora, visual studio code](https://skillicons.dev/icons?i=redhat,git,vscode&theme=dark)
+![Fedora,visual studio code](https://skillicons.dev/icons?i=redhat,git,vscode&theme=dark)
