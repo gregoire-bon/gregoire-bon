@@ -2,7 +2,7 @@
 
 ## Who Am I?
 
-Hi, I’m **Grégoire Bonnichon**  a French passionate developer at [{Epitech}](https://www.epitech.eu/) with a strong interest in **cyber-security**, **photography**, and **motorsports**
+Hi, I’m **Grégoire Bonnichon**  a French passionate developer currently studying at  [{Epitech}](https://www.epitech.eu/) in 2nd year with a strong interest in **cyber-security**, **photography**, and **motorsports**
 
 ## Socials
 
